@@ -1,0 +1,12 @@
+{
+  "name": "0w0n2",
+  "owner": { "name": "0w0n2" },
+  "description": "Custom themes for the Claude desktop app.",
+  "plugins": [
+    {
+      "name": "w0n-themes",
+      "source": "./",
+      "description": "Custom themes for the Claude desktop app."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+w0n-themes
+Copyright 2026 0w0n2
+
+This product includes software developed by Anthropic.
+
+The theme host — hooks/register.tsx, hooks/fireworks.ts, hooks/project-key.ts,
+types/index.d.ts and the shape of hooks/themes.ts — is derived from the
+"theme-examples" plugin (version 0.4.3) in Anthropic's official Claude Code
+plugin marketplace, used under the Apache License 2.0. It has been modified:
+the plugin is renamed throughout, and the bundled example themes are replaced
+with the themes in this repository. hooks/make-colors.js and
+hooks/make-colors.d.ts are generated from Anthropic's design system and copied
+unchanged from the Claude Code plugin-authoring skill.
+
+
+THE FIGURE IS NOT UNDER THE APACHE LICENSE.
+
+The PIXELS and MENDED data below the generated figure marker in
+hooks/scenes/miku-aero.ts, everything that data draws, and the screenshot at
+media/miku-aero.png feature an adaptation of Hatsune Miku, (C) Crypton Future
+Media, Inc. 2007, licensed under a Creative Commons Attribution-NonCommercial
+3.0 Unported License:
+
+    https://creativecommons.org/licenses/by-nc/3.0/
+
+Based on a work at https://piapro.net/license.
+
+Commercial use of the figure is not granted by this repository and requires
+separate permission from Crypton Future Media, Inc.

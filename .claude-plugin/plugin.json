@@ -1,0 +1,9 @@
+{
+  "name": "w0n-themes",
+  "version": "0.1.1",
+  "description": "Custom themes for the Claude desktop app.",
+  "author": { "name": "0w0n2" },
+  "homepage": "https://github.com/0w0n2/w0n-themes",
+  "license": "Apache-2.0",
+  "types": "./types/index.d.ts"
+}

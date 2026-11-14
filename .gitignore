@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local scratch: previews, intermediate data, and reference images that are not ours to redistribute.
+.work/
+refs/
+.claude/launch.json
+
+# Release notes live in the GitHub release, not in the repo.
+CHANGELOG.md
